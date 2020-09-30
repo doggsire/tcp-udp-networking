@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5CM2Yl+xpUNlaHB8Wl1aeGX9LN+yP3H/SXGsbbbeFlIEOVAOIg8DnvZQuefWfg54C9bnJ0wtohiq0yyzaYHhWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maste.STOCKHOLM\\Documents\\GitHub\\Nieuwe map\\tcp-udp-networking\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maste.STOCKHOLM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\maste.STOCKHOLM\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\maste.STOCKHOLM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\maste.STOCKHOLM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
